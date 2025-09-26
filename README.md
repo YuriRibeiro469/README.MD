@@ -1,6 +1,6 @@
-# 🏃‍♂️ Território Runner
+# 🏃‍♂️ The Runner
 
-**Território Runner** é um aplicativo de corrida gamificado que transforma seus treinos em um jogo de conquista de territórios. É ideal para corredores que buscam motivação, competição e diversão além dos quilômetros. Inspirado por apps como o Strava, mas com um toque único de estratégia e dominação territorial!
+**The Runner** é um aplicativo de corrida gamificado que transforma seus treinos em um jogo de conquista de territórios. É ideal para corredores que buscam motivação, competição e diversão além dos quilômetros. Inspirado por apps como o Strava, mas com um toque único de estratégia e dominação territorial!
 
 ---
 
